@@ -18,6 +18,10 @@ This project aims to optimize gold production for Zyfra by predicting the yield 
 - Evaluated feed size distributions in training and test sets.
 - Handled missing values and selected relevant targets.
 
+### Concentrations of Gold across Stages
+![image](https://github.com/jnorfolk/Zyfra-Gold-Recovery/assets/117448822/75c6a6d2-2dc6-4275-aadf-ea22e67c4852)
+
+
 ### Model Training and Evaluation
 - Experimented with linear regression and random forest regression models.
 - The primary metric for success was symmetric mean absolute error (sMAPE).
