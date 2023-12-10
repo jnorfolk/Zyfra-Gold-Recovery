@@ -1,5 +1,8 @@
 # Zyfra Gold Concentrate Recovery Prediction
 
+## Link to Notebook
+[Notebook](https://github.com/jnorfolk/Zyfra-Gold-Recovery/blob/main/Zyfra-Gold-Recovery.ipynb)
+
 ## Project Overview
 This project aims to optimize gold production for Zyfra by predicting the yield of gold concentrate from gold ore. Utilizing data from various stages of the gold extraction process, the goal is to train a regression model for accurate gold recovery prediction.
 
